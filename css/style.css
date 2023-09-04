@@ -1,0 +1,31 @@
+.cmn_cls{
+    height: 40px;
+    width: 350px;
+    
+}
+.put{
+    color: white;
+    padding-right: 5px;
+    width: 95%;
+    height: 30PX;
+    font-size: 14px;
+}
+::placeholder{
+    padding-left: 5px;
+    font-size: 12px;
+}
+.but{
+    height: 320px;
+    width: 400px;
+    align: left;
+}
+#btn {
+    text-align: center;
+    padding-inline:20px;
+    font-size: 16px;
+    background-color: blueviolet;
+    color: white;
+    border-style: hidden;
+    height: 25px;
+    width:100px;
+}
